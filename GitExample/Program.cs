@@ -12,6 +12,7 @@ namespace GitExample
         {
             Console.WriteLine("Using git example");
             Console.WriteLine("Using git example");
+            // This is comment
         }
     }
 }
