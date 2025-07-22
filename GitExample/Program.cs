@@ -11,6 +11,7 @@ namespace GitExample
         static void Main(string[] args)
         {
             Console.WriteLine("Using git example");
+            Console.WriteLine("Using git example");
         }
     }
 }
